@@ -1,0 +1,40 @@
+1. 工具的使用
+
+Linux系统的使用，Git的使用，Docker的使用
+
+2. 机器学习基础
+
+(西瓜书)  pytorch蓝皮书
+
+3. 深度学习基础
+
+花书(动手学深度学习)  pytorch深度学习框架  oneflow
+
+4. 编程工具
+
+Python： pyqt ,多线程，PIL，selium，excel，numpy，matplotlib，pandas，
+
+C++： STL，qt，cmake，boost，opencv
+
+5. 传统图像处理
+
+opencv，数字图像处理
+
+6. 深度学习任务：
+
+图像分类
+
+目标检测系列 yolov5系列  RCNN系列
+
+语义分割系列 U-net deeplabv3+
+
+OCR [答题卡，电表检测]
+
+关键点检测  表情识别，手语识别，姿势识别
+
+7.工程落地部署
+tensorrt，openvino，ncnn，模型剪枝/蒸馏/量化等等
+
+8.CS基础
+
+数据结构  ， 算法设计 ， 操作系统 ， 计算机网络 ， 编译原理 ， 数据库原理
